@@ -3,8 +3,7 @@
 one-hundred. If a number is a multiple of three, instead of the number, output the word "Fizz." If the number
 is a multiple of five, instead of the number, print the word "Buzz." If the number is a multiple of both three
 and five, output the word "FizzBuzz.""</p>
-<p>Hi Guys</p>
-<p>Whatever</p>
+
 
 ``` JavaScript
 for( var i=1 ; i<101 ; i++ ){
